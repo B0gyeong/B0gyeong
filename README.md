@@ -59,11 +59,11 @@
 **Collaboration**
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/GitHub-CBDDF4?style=for-the-badge&amp;logo=github&amp;logoColor=526785" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-F4DDCA?style=for-the-badge&amp;logo=gitlab&amp;logoColor=526785" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Jira-C6E4F3?style=for-the-badge&amp;logo=jira&amp;logoColor=526785" alt="Jira" />
+  <img src="https://img.shields.io/badge/Discord-DDD7F5?style=for-the-badge&amp;logo=discord&amp;logoColor=526785" alt="Discord" />
+  <img src="https://img.shields.io/badge/Notion-F4D0DC?style=for-the-badge&amp;logo=notion&amp;logoColor=526785" alt="Notion" />
 </p>
 
 <details>
