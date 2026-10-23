@@ -26,7 +26,7 @@
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-BBD8F2?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-BBD8F2?style=for-the-badge&amp;logo=openjdk&amp;logoColor=526785" alt="Java" />
   <img src="https://img.shields.io/badge/Python-D5E7F4?style=for-the-badge&amp;logo=python&amp;logoColor=526785" alt="Python" />
 </p>
 
