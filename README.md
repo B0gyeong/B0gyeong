@@ -66,24 +66,6 @@
   <img src="https://img.shields.io/badge/Notion-F4D0DC?style=for-the-badge&amp;logo=notion&amp;logoColor=526785" alt="Notion" />
 </p>
 
-<details>
-<summary>🫧 App · AI · Migration</summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Android-CDE8D2?style=for-the-badge&amp;logo=android&amp;logoColor=526785" alt="Android" />
-  <img src="https://img.shields.io/badge/Retrofit-C5E5DF?style=for-the-badge" alt="Retrofit" />
-  <img src="https://img.shields.io/badge/MediaPipe-C6E4F3?style=for-the-badge&amp;logo=mediapipe&amp;logoColor=526785" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/PyTorch-F4DDCA?style=for-the-badge&amp;logo=pytorch&amp;logoColor=526785" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Alembic-DDD7F5?style=for-the-badge" alt="Alembic" />
-</p>
-
-- **Android · Retrofit** — NFC 메뉴 조회, 리뷰 화면과 API 연결
-- **MediaPipe** — Android 온디바이스 LLM 추론 연동
-- **PyTorch** — 전력 데이터 모델의 실시간 추론 경로 연동
-- **Alembic** — DB 스키마 마이그레이션
-
-</details>
-
 <br />
 
 ## 🧺 Projects
