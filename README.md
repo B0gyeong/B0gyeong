@@ -13,7 +13,6 @@
 
 <br />
 
-<a href="https://b0gyeong.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-C7DFF4?style=for-the-badge&amp;logo=tistory&amp;logoColor=526785" alt="개발 블로그" /></a>
 <a href="https://github.com/B0gyeong?tab=repositories"><img src="https://img.shields.io/badge/Repositories-DDD7F5?style=for-the-badge&amp;logo=github&amp;logoColor=526785" alt="GitHub 저장소" /></a>
 
 </div>
@@ -93,10 +92,9 @@
 
 <br />
 
-## 🌱 Learning & Writing
+## 🌱 Learning
 
 - **[Algorithm](https://github.com/B0gyeong/algorithm)** — Java로 기록하는 알고리즘 문제 풀이
-- **[Tech Blog](https://b0gyeong.tistory.com/)** — 개발 과정과 배운 내용을 정리하는 공간
 
 <div align="center">
 
