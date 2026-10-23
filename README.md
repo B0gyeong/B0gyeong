@@ -56,6 +56,16 @@
   <img src="https://img.shields.io/badge/Grafana-F5E8BE?style=for-the-badge&amp;logo=grafana&amp;logoColor=526785" alt="Grafana" />
 </p>
 
+**Collaboration**
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion" />
+</p>
+
 <details>
 <summary>🫧 App · AI · Migration</summary>
 
